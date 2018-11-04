@@ -1,0 +1,45 @@
+.top{
+	background:#009DCC;
+	padding:5px;
+	margin-top:50px;
+	
+}
+.nb{
+
+	}
+	#home{
+
+		margin-top:-5px;
+	}
+.s{
+	margin-right:10px;
+}
+.navbar-default{
+		background:#fff;
+	}
+.mymenu .navbar-nav .active a
+{
+		background:#F26522;
+		color:#fff;
+	}
+	.mymenu .navbar-nav .active a:hover
+{
+		background:#F26522
+		color:#fff;
+	}
+	.mymenu .navbar-nav  li a:hover{
+		background:#F26522;
+		color:#fff;
+	}
+	.m{
+		background:#010001;
+		margin-top:0px;
+	}
+	.frm{
+		width:70%;
+		margin:auto;
+	}
+	.n{
+		border:1px solid red;
+		position:relative;
+	}
